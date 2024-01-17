@@ -3,10 +3,11 @@
 	"1.16.5": {
 		"1.0": "Initial Release",
 		"1.1": "Small Crash Fixes and Coin Exchange GUI",
-		"1.2": "Updated Data Files and Structure System (v3)"
+		"1.2": "Updated Data Files and Structure System (v3)",
+		"1.2.1": "Fix lang issue and Hobbit Traders Despawning"
 	},
 	"promos": {
-		"1.16.5-latest": "1.2",
-		"1.16.5-recommended": "1.2"
+		"1.16.5-latest": "1.2.1",
+		"1.16.5-recommended": "1.2.1"
 	}
 }
