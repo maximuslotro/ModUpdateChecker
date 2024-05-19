@@ -9,10 +9,11 @@
 		"1.4.0": "3 NPC Traders, Chestnut Trees, Revamp Shire Structures",
 		"1.4.1": "Trading Fixes, More Chestnut Tree locations and Toggleable torches",
 		"1.4.2": "New beds, Large Hobbit Hole, and Inventory Coin Totals",
-		"1.4.3": "Large Hobbit Tavern, More Coin Totals, Renewed Hobbit Textures"
+		"1.4.3": "Large Hobbit Tavern, More Coin Totals, Renewed Hobbit Textures",
+		"1.5.0": "Rangers, Ranger Structures, Bedrolls, Weapon Racks, and more...."
 	},
 	"promos": {
-		"1.16.5-latest": "1.4.3",
-		"1.16.5-recommended": "1.4.3"
+		"1.16.5-latest": "1.5.0",
+		"1.16.5-recommended": "1.5.0"
 	}
 }
