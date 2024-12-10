@@ -15,10 +15,11 @@
 		"1.5.2": "Multiple bug fixes, mostly for servers, and lotr:Companions compat",
 		"1.6.0": "Ducks, Wandering Traders, Gundabad Camps, new Entity Spawner system, and more....",
 		"1.6.1": "Gundabad Encampments, Trader Respawners, Orc Trader, and more....",
-		"1.6.2": "Gundabad Uruks, Orc Bows Drinks, Skull Goblet, Drinks, and more...."
+		"1.6.2": "Gundabad Uruks, Orc Bows Drinks, Skull Goblet, Drinks, and more....",
+		"1.7.0": "Barrow Downs, Barrow Wights, Banner Protection, Moss, and more...."
 	},
 	"promos": {
-		"1.16.5-latest": "1.6.2",
-		"1.16.5-recommended": "1.6.2"
+		"1.16.5-latest": "1.7.0",
+		"1.16.5-recommended": "1.7.0"
 	}
 }
