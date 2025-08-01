@@ -20,10 +20,11 @@
 		"1.7.1": "Bree Hamlets, Initial Hired Units, Chair/Slab sitting, and more....",
 		"1.7.2": "Massive Hired Unit fixes, Gundabad and Ranger Units and Captains, and more....",
 		"1.7.3": "Bree Villages, Hired unit melee:ranged:idle weapons, Willow Wood, and more....",
-		"1.7.4": "Random signs in structures, Datapackable traders, unit and pve fixes, and more...."
+		"1.7.4": "Random signs in structures, Datapackable traders, unit and pve fixes, and more....",
+		"1.8.0": "Blue Mountains Npcs, Structures and Content, Hired Unit Flattening, and more...."
 	},
 	"promos": {
-		"1.16.5-latest": "1.7.4",
-		"1.16.5-recommended": "1.7.4"
+		"1.16.5-latest": "1.8.0",
+		"1.16.5-recommended": "1.8.0"
 	}
 }
