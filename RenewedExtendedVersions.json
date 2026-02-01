@@ -21,10 +21,13 @@
 		"1.7.2": "Massive Hired Unit fixes, Gundabad and Ranger Units and Captains, and more....",
 		"1.7.3": "Bree Villages, Hired unit melee:ranged:idle weapons, Willow Wood, and more....",
 		"1.7.4": "Random signs in structures, Datapackable traders, unit and pve fixes, and more....",
-		"1.8.0": "Blue Mountains Npcs, Structures and Content, Hired Unit Flattening, and more...."
+		"1.8.0": "Blue Mountains Npcs, Structures and Content, Hired Unit Flattening, and more....",
+		"1.8.1": "Boars, Hedgehogs, Middle Earth fishing, and much more....",
+		"1.9.0": "Modifier system, Rivendell Structures, Bandits, Feast Mode, Elrond, and much more....",
+		"1.9.1": "Imladris lore build, Eregion ruins, numberious bug fixes, and more...."
 	},
 	"promos": {
-		"1.16.5-latest": "1.8.0",
-		"1.16.5-recommended": "1.8.0"
+		"1.16.5-latest": "1.9.1",
+		"1.16.5-recommended": "1.9.1"
 	}
 }
