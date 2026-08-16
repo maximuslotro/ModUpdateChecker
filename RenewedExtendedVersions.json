@@ -29,10 +29,11 @@
 		"1.9.3": "Minor bug fixing patch",
 		"1.10.0": "Tower of Orthanc and Ring of Isengard structures, Invasions, and more....",
 		"1.10.1": "Reforge fixes, and many other miscellaneous fixes.",
-		"1.10.2": "Isengard camps, Crucibles, Dagger Poisoning, Reforge Tomes, and more...."
+		"1.10.2": "Isengard camps, Crucibles, Dagger Poisoning, Reforge Tomes, and more....",
+		"1.10.3": "Dunland Structures and NPCs, Farmhands Uruk Highlands, Fangorn Wasteland, and more...."
 	},
 	"promos": {
-		"1.16.5-latest": "1.10.2",
-		"1.16.5-recommended": "1.10.2"
+		"1.16.5-latest": "1.10.3",
+		"1.16.5-recommended": "1.10.3"
 	}
 }
